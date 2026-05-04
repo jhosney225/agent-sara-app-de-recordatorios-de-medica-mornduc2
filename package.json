@@ -1,0 +1,6 @@
+{
+  "name": "agent-sara-app-de-recordatorios-de-medica-mornduc2",
+  "version": "1.0.0",
+  "description": "Proyecto de Sara [Gen11]: app de recordatorios de medicamentos con alertas",
+  "main": "index.js"
+}
